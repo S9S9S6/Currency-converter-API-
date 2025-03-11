@@ -7,7 +7,8 @@ This is a **CLI-based currency converter** that fetches real-time exchange rates
 - ✅ Real-time exchange rates fetched via API  
 - ✅ Supports multiple currencies (USD, EUR, GBP, etc.)  
 - ✅ Simple and user-friendly command-line interface  
-- ✅ Error handling for invalid inputs and API failures  
+- ✅ Error handling for invalid inputs and API failures
+- ✅Graphical User Interface (GUI) using Tkinter  
 
 ## 🛠️ Installation & Setup  
 
