@@ -44,8 +44,7 @@ Enter target currency (e.g., EUR, GBP, JPY): EUR
 50 USD = 46.25 EUR
 ```
 
-## ⚡ Future Improvements  
-- 🔹 Add a **GUI version** using Tkinter or PyQt  
+## ⚡ Future Improvements    
 - 🔹 Support for **historical exchange rates**  
 - 🔹 Implement a **web-based version**  
 
